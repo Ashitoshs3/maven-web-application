@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Learn With Ashitosh. Ph No: +91-9980923226, +91-9980923216 ,+91-9900012028,Bengaluru,Karnataka,India</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Learn With Ashitosh. Ph No: +91-9980923226, +91-123456789 ,+91-123456789,Latur,Maharashtra,India</h1>
+<h1 align="center"> Learn with Ashitosh- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
