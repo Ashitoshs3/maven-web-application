@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.212.71.229:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
+	      <name>Maven WebApp Releases Nexus Repository</name>
+	      <url>http://35.154.31.133:8983/gcoc/repository/maven-web-app-release-training/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.212.71.229:9980/mithuntechnologies/repository/canarabank-release/</url>
+	      <name>Maven WebApp Snapshot Nexus Repository </name>
+	      <url>http://35.154.31.133:8983/gcoc/repository/maven-web-app-snapshot-training/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
