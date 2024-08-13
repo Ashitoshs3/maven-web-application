@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://43.205.144.151:9000/</sonar.host.url>
+		<sonar.host.url>http://172.31.42.177:9000/</sonar.host.url>
 		<sonar.login>squ_4ccc0bfde5cf6df8eb39d307e712528f94761876</sonar.login> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Maven WebApp Releases Nexus Repository</name>
-	      <url>http://35.154.31.133:8983/gcoc/repository/maven-web-app-release-training/</url>
+	      <url>http://172.31.38.180:8983/gcoc/repository/maven-web-app-release-training/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven WebApp Snapshot Nexus Repository </name>
-	      <url>http://35.154.31.133:8983/gcoc/repository/maven-web-app-snapshot-training/</url>
+	      <url>http://172.31.38.180:8983/gcoc/repository/maven-web-app-snapshot-training/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
